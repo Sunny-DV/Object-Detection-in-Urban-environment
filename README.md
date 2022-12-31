@@ -7,7 +7,7 @@ The dataset contains traffic images with three classes : vehicles, pedestrains a
 
 # Config
 
-Use the config in Experiment_1 folder for best results.
+Use the config in experiments/Experiment_1 folder for best results.
 
 # Structure
 
