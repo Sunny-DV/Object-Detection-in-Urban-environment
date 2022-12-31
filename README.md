@@ -3,7 +3,7 @@
 To classify and localize the cars, pedestrians and cyclists in camera input feed. This is useful for self-driving cars.
 # Dataset
 
-The dataset contains high resolution traffic images with three classes : vehicles, pedestrains and cyclists.
+The dataset contains traffic images with three classes : vehicles, pedestrains and cyclists.
 
 # Config
 
